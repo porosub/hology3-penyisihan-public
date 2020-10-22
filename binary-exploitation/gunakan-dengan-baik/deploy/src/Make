@@ -1,0 +1,1 @@
+gcc -fno-stack-protector -m32 -mpreferred-stack-boundary=2 gunakan-dengan-baik.c -o gunakan-dengan-baik
