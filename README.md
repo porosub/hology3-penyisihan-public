@@ -21,9 +21,9 @@ Kode etik komunitas dan projek dapat dilihat di [sini](CODE_OF_CONDUCT.md)
 | 1.3                      | [Harta Karun Budi]()                                                               | [Puzzle]()                                    |
 | 1.4                      | [ECC pop quizzz]()                                                                 | [Red Velvet]()                                |
 
-| [OSINT](/OSINT/README.md)                   | [Reversing](/reverse-engineering/README.md) | [Binary Exploitation](/binary-exploitation/README.md)                     |
-| ------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------- |
-| [Liburan](/OSINT/liburan/README.md)         | Item2.1                                     | [Gunakan dengan Baik](/binary-exploitation/gunakan-dengan-baik/README.md) | [Patterns](/cryptography/patterns/README.md) |
-| [Time Travel](/OSINT/time-travel/README.md) | Item2.2                                     | [Angkatan Corona](/binary-exploitation/angkatan-corona/README.md)         |
+| [OSINT](/OSINT/README.md)                   | [Reversing](/reverse-engineering/README.md)                               | [Binary Exploitation](/binary-exploitation/README.md)                     |
+| ------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [Liburan](/OSINT/liburan/README.md)         | [matematika-sekolah-dasar](/reversing/matematika-sekolah-dasar/README.md) | [Gunakan dengan Baik](/binary-exploitation/gunakan-dengan-baik/README.md) | [Patterns](/cryptography/patterns/README.md) |
+| [Time Travel](/OSINT/time-travel/README.md) | Item2.2                                                                   | [Angkatan Corona](/binary-exploitation/angkatan-corona/README.md)         |
 
 <!-- TODO Tabel -->
