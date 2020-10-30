@@ -1,6 +1,6 @@
 # SOAL HOLOGY Reverse Engineering #1
 
-### Judul : matematika-sekolah-dasar
+### Judul : Matematika Sekolah Dasar
 
 ### Author : ahm4d
 
