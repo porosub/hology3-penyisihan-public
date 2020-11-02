@@ -8,7 +8,7 @@
 
 Collect [all gym badges](https://drive.google.com/file/d/181XNdx80YP-HVjLQn7jslqLLHtEEnAXC/view?usp=sharing) and become the champion.
 
-_file: [puzzle.pcapng](puzzle.pcapng)_
+File: [puzzle.pcapng](puzzle.pcapng)
 
 ## Konsep Soal
 
