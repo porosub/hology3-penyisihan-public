@@ -22,8 +22,7 @@ _Flag format : hology3{wasiat}_
 
 ## Hints
 
-1. Coba google yang lain
-2. Dimana orang bisa menulis tentang tempat wisata?
+1. Apakah wasiat si impostor tertumpuk oleh bintang-bintang dan wasiat-wasiat orang lain tentang tempat itu?
 
 ## Flag
 
