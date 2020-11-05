@@ -24,8 +24,6 @@ _File : [kebakaran.jpg](kebakaran.jpg)_
 
 ## Hints
 
--
-
 ## Flag
 
 <details>
