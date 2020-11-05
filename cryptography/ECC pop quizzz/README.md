@@ -28,9 +28,16 @@ Berikut "kunci jawaban" kuisnya
 ```
 > Untuk yang soal pertama itu hanya perlu diperiksa saja nilai p-nya jika prima maka possible.
 
+Terdapat beberapa tools / library yang daapat memudahkan kita untuk memecahkan soal ini. Akan tetapi minimal kita mengerti dengan operasi yang ada di ECC itu sendiri. Berikut beberapa resource yang pembuat soal rekomendasikan untuk soal ini,
+1. Video youtube dari "computerphile" tentang elliptic curve.
+2. Video youtube dari ["Trustica"](https://www.youtube.com/watch?v=mFVKuFZ29Fc) tentang elliptic curve.
+3. Lecture notes pada [hints](#hints).
+4. [Slides](https://informatika.stei.itb.ac.id/~rinaldi.munir/Kriptografi/2014-2015/ECC%20(2015).pdf) dari pak Rinaldi Munir juga dapat membantu.
+5. Dokumentasi dari [web trustica](https://trustica.cz/en/2018/03/01/elliptic-curves-over-finite-fields/).
+   
 ## Hints
 
-<code>None</code>
+Bingung memulai dari mana? Mungkin bisa diperiksa lecture note [berikut](https://crypto.stanford.edu/pbc/notes/elliptic/).
 
 ## Flag
 
