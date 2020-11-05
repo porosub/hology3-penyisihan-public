@@ -23,8 +23,9 @@ File: [MrSteg.zip](MrSteg.zip)
 ## Hints
 
 1. Google Images mungkin berguna
-2. http://nanozip.ijat.my/
-3. https://docs.fileformat.com/word-processing/docx/
+2. https://docs.fileformat.com/word-processing/docx/
+3. Steganography Cracking , mmungkin tools dari kali linux bisab berguna?
+4. Very very small zip file? do you know it?
 
 ## Flag
 
