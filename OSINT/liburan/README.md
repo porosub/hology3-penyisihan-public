@@ -19,6 +19,8 @@ _Flag format : hology3{wasiat}_
 ## Proof of Concept
 
 [Disini](proof-of-concept.pdf)
+  
+(Setelah penyisihan selesai, soal terhapus oleh sistem sehingga dilakukan remake untuk kebutuhan Writeup)
 
 ## Hints
 
