@@ -42,6 +42,14 @@ Terdapat beberapa tools / library yang daapat memudahkan kita untuk memecahkan s
 
 Bingung memulai dari mana? Mungkin bisa diperiksa lecture note [berikut](https://crypto.stanford.edu/pbc/notes/elliptic/).
 
+## Deployment
+
+```sh
+docker build -t soal-ecc .
+docker run -d --name=soal-ecc -p 31337:31337/tcp soal-ecc
+crontab /path/to/crontab
+```
+
 ## Flag
 
 <details>
