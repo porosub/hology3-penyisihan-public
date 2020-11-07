@@ -1,4 +1,4 @@
-# SOAL HOLOGY CRYPTOGRAPHY #4
+# SOAL HOLOGY CRYPTOGRAPHY #1
 
 ### Judul : ECC pop quizzz
 
