@@ -6,4 +6,7 @@ Kode etik komunitas dan projek dapat dilihat di [sini](../CODE_OF_CONDUCT.md)
 
 ## Daftar Soal
 
-<!-- TODO Tabel -->
+| No  | Nama Soal                            | Author  |
+| --- | ------------------------------------ | ------- |
+| 1   | [liburan](liburan/README.md)         | Rifqihz |
+| 2   | [time-travel](time-travel/README.md) | Rifqihz |
