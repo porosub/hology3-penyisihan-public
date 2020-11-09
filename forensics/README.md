@@ -10,4 +10,4 @@ Kode etik komunitas dan projek dapat dilihat di [sini](../CODE_OF_CONDUCT.md)
 | 1   | [basic-steg](basic-steg/README.md) | Rifqihz      |
 | 2   | [meong](meong/README.md)           | EmpalGentong |
 | 3   | [puzzle](puzzle/README.md)         | rax_3r       |
-| 4   | [red-velver](red-velvet/README.md) | rax_3r       |
+| 4   | [red-velvet](red-velvet/README.md) | rax_3r       |

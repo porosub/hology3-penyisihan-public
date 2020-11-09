@@ -6,4 +6,7 @@ Kode etik komunitas dan projek dapat dilihat di [sini](../CODE_OF_CONDUCT.md)
 
 ## Daftar Soal
 
-<!-- TODO Tabel -->
+| No  | Nama Soal                                                      | Author  |
+| --- | -------------------------------------------------------------- | ------- |
+| 1   | [matematika-sekolah-dasar](matematika-sekolah-dasar/README.md) | Rifqihz |
+| 2   | [mk-moment-ketika](mk-moment-ketika/README.md)                 | Rifqihz |
