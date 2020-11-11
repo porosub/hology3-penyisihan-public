@@ -1,0 +1,17 @@
+version: "3"
+
+services:
+  myanimal:
+    container_name: hology_myanimal
+    image: php:apache
+    restart: always
+    user: 1000:1000
+    ports:
+      - 8082:80
+    environment:
+      - APACHE_RUN_USER='#1000'
+    sysctls:
+      net.ipv4.ip_unprivileged_port_start: "0"
+    volumes:
+      - ./MyAnimal/deploy:/var/www/html
+      - ./MyAnimal/logs:/var/log/apache2
