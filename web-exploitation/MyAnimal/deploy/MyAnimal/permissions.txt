@@ -1,0 +1,6 @@
+server@server-soal:~/hology/MyAnimal$ ls -al
+total 16
+drwxr-xr-x 4 user   user   4096 Oct 30 11:50 .
+drwxrwxr-x 4 user   user   4096 Nov 14 21:35 ..
+drwxr-xr-x 9 user   user   4096 Nov 14 21:37 deploy
+drwxrwxrwx 2 root   root   4096 Nov 14 21:32 logs

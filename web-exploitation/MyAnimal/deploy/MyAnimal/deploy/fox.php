@@ -1,0 +1,1 @@
+<img width="460" height="460" class="center" src="foxes/<?php echo rand(1, 5); ?>.png" />

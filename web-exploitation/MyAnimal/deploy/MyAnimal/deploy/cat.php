@@ -1,0 +1,1 @@
+<img width="460" height="460" class="center" src="cats/<?php echo rand(1, 5); ?>.png" />
