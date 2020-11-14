@@ -1,60 +1,67 @@
-# SOAL HOLOGY CRYPTOGRAPHY #1
+# SOAL HOLOGY CRYPTOGRAPHY #3
 
-### Judul : ECC pop quizzz
+### Judul : Harta Karun Budi
 
 ### Author : Joule
 
 ## Deskripsi
 
-Terinspirasi dari soal RSA quiz di p\\*coctf, Andi yang senang dengan kriptografi membuat soal dengan modifikasi total! Yaitu dengan mengganti menjadi quiz bertemakan ECC. Dapatkah kamu menjawab soal-soal yg disediakan???
+Harta Karun Budi
+
+Andi (bukan nama sebenarnya) merupakan seorang mahasiswa yang memiliki ketertarikan di bidang visi komputer dan kriptografi. Budi yang merupakan sobat akrabnya senang mengumpulkan foto2 "menarik" yang sangat berharga baginya, ia tidak ingin ada orang lain yang bisa melihat gambar tersebut. 
+Budi pun meminta Andi membuat algoritma enkripsi untuk mengamankan gambar2nya. 
+
+Budi: "Bro, lu tau kan gw punya banyak gambar yang 'berharga', lu kan jago ngoding bisa gak lu buat supaya yg bisa liat gambarnya gw doang gitu kek make enkripsi2an."
+
+Andi: "Sabi Bro, tapi... wani piro?"
+
+Budi: *nunjukkin rekening sama "koleksinya"*
+
+Andi: "Mantap awoakoawkw, tancap gas bro."
+
+Andi berpesan kepada Budi untuk menyimpan gambar "kunci" agar ia dapat mengembalikan gambar2nya.
+
+Andi: "Nih bro, lu jalanin aja dah tuh programnya ntar ada folder isinya banyak gambar gaje jangan diapus ye bro."
+
+Budi: "Oh iya2, bro sip" *ngangguk2*
+
+Keesokan harinya, Budi bertanya lagi pada Andi karena menemukan masalah.
+
+Budi: "Bro, gw keknya gasengaja apus gambar yg lu bilang anj*y, jd error hasilnya pas gw decrypt."
+
+Andi: "Wadu bro, gmn yak keknya gabisa dibalikin juga kan gambar2 gaje-nya tuh random."
+
+Budi: "Bjirrr, trus gimana bro cara balikinnya ya :' . Mana itu isinya harta gua yang paling berharga lagi"
+
+Andi: "Hmmm, Gua minta tolong temen hekel gua deh bro siapa tau sabi."
+
+Budi: "Ayt."
+
+Andi pun meminta tolong pada anda untuk melakukan dekripsi pada gambar tersebut. Sebagai hekel yang baik dan tidak sombong, bantulah Andi.
+
 
 ## Konsep Soal
 
-### _Kategori serangan: Ciphertext only_
+### _Kategori serangan: Ciphertext-only (exhaustive key search)_
 
-1. Seperti yang tertulis di deskripsi, soal ini terinspirasi dari RSA pop quiz p*coctf 2019. Berisi dasar2 dari konsep _elliptic curve_.
+Crypto, XOR, Pseudo-random, visual cryptography
 
 ## Proof of Concept
 
-Berikut "kunci jawaban" kuisnya
-```text
-1. isPrime(p) 
-2. 24 -116
-3. 169753016558 472169683476
-4. 335861726940 159769589376
-5. 5630441222594293712 7116794962718930981
-6. 1305548989346009163 4148731583499372470
-7. 283694777697660492187859152704214518613 136015198097973043243744493947793144040
-```
-> Untuk yang soal pertama itu hanya perlu diperiksa saja nilai p-nya jika prima maka possible.
+Diberikan 4 file kira-kira seperti ini strukturnya.
+![](img/tree.png)
 
-Terdapat beberapa tools / library yang daapat memudahkan kita untuk memecahkan soal ini. Akan tetapi minimal kita mengerti dengan operasi yang ada di ECC itu sendiri. Berikut beberapa resource yang pembuat soal rekomendasikan untuk soal ini,
-1. Video youtube dari ["Computerphile"](https://www.youtube.com/watch?v=NF1pwjL9-DE) tentang elliptic curve.
-2. Video youtube dari ["Trustica"](https://www.youtube.com/watch?v=mFVKuFZ29Fc) tentang elliptic curve.
-3. Lecture notes pada [hints](#hints).
-4. [Slides](https://informatika.stei.itb.ac.id/~rinaldi.munir/Kriptografi/2014-2015/ECC%20(2015).pdf) dari pak Rinaldi Munir juga dapat membantu.
-5. Dokumentasi dari [web trustica](https://trustica.cz/en/2018/03/01/elliptic-curves-over-finite-fields/).
-6. [Library](https://github.com/warner/python-ecdsa) python ecdsa
-7. [Library](https://github.com/AntonKueltz/fastecdsa) python fastecdsa
-8. [Library](https://doc.sagemath.org/html/en/constructions/elliptic_curves.html) sagemath
-   
+<!-- TODO POC -->
+
 ## Hints
 
-Bingung memulai dari mana? Mungkin bisa diperiksa lecture note [berikut](https://crypto.stanford.edu/pbc/notes/elliptic/).
-
-## Deployment
-
-```sh
-docker build -t soal-ecc .
-docker run -d --name=soal-ecc -p 31337:31337/tcp soal-ecc
-crontab /path/to/crontab
-```
+Maybe you overlooked something?
 
 ## Flag
 
 <details>
 <summary>Tekan untuk melihat flag</summary>
 
-    hology3{nG3rJa1n_s0aL_qU1z_EcC_t1D4kl4h_eZ}
+    hology3{randomness_and_bruteforce_at_its_finest}
 
 </details>
