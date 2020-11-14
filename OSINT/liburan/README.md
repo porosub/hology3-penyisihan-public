@@ -19,11 +19,12 @@ _Flag format : hology3{wasiat}_
 ## Proof of Concept
 
 [Disini](proof-of-concept.pdf)
+  
+(Setelah penyisihan selesai, soal terhapus oleh sistem sehingga dilakukan remake untuk kebutuhan Writeup)
 
 ## Hints
 
-1. Coba google yang lain
-2. Dimana orang bisa menulis tentang tempat wisata?
+1. Apakah wasiat si impostor tertumpuk oleh bintang-bintang dan wasiat-wasiat orang lain tentang tempat itu?
 
 ## Flag
 

@@ -24,9 +24,6 @@ _File : [kebakaran.jpg](kebakaran.jpg)_
 
 ## Hints
 
-1. Kelihatan di Indonesia walaupun diselimuti asap
-2. External Link ? dimana mencarinya ??
-
 ## Flag
 
 <details>
