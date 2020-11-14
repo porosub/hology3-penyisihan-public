@@ -50,6 +50,11 @@ flag pertama terdapat pada postingan gambar
 ```
 /N,4?0JtXD2)Hj,0ebR>2)R6I3&`h
 ```
+jika dilihat pada tweet di twitter, terdapat tweet
+
+![clue](images/clueTweet.png)
+
+yang mengindikasikan flag merupakan base85 string (terbaik 85 -> best85 -> base85)
 
 merupakan base85 string yang jika didecode menghasilkan koordinat
 
